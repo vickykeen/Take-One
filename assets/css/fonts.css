@@ -1,0 +1,25 @@
+
+@font-face {
+     font-display: swap;
+     font-family: 'Over Bold';
+     src: url('/fonts/OverusedGrotesk-Bold.woff2') format('woff2');
+     font-weight: 800;
+   } 
+   @font-face {
+     font-display: swap;
+     font-family: 'Over Med';
+     src: url('/fonts/OverusedGrotesk-Medium.woff2') format('woff2');
+     font-weight: 600;
+   } 
+   @font-face {
+     font-display: swap;
+     font-family: 'Libre Med';
+     src: url('/fonts/LibreCaslonCondensed-Medium.woff2') format('woff2');
+     font-weight: 600;
+   } 
+   @font-face {
+     font-display: swap;
+     font-family: 'Libre';
+     src: url('/fonts/LibreCaslonCondensed-Regular.woff2') format('woff2');
+     font-weight: 400;
+   } 
